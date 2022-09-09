@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Capitán América: El primer Vengador",
+    "rating": 4.6,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Capitana Marvel",
+    "rating": 2.9,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Iron Man: el hombre de hierro",
+    "rating": 4.8,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Iron Man 2",
+    "rating": 4.4,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Hulk: El hombre increíble",
+    "rating": 4.1,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Thor",
+    "rating": 4.2,
+    "tags": ["acción", "fantasía"]
+    
+  },
+  {
+    "title": "Avengers",
+    "rating": 4.7,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Iron Man 3",
+    "rating": 3.5,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Thor: Un mundo oscuro",
+    "rating": 3.6,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Capitán América: El Soldado del Invierno",
+    "rating": 4.8,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Guardianes de la Galaxia Vol. 1",
+    "rating": 4.7,
+    "tags": ["acción", "fantasía", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Guardianes de la Galaxia Vol. 2",
+    "rating": 4.4,
+    "tags": ["acción", "fantasía", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Avengers: Era de Ultrón",
+    "rating": 4.5,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Ant-Man: El hombre hormiga",
+    "rating": 4.5,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Capitán América: Civil War",
+    "rating": 4.6,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Spider-Man: De Regreso a Casa",
+    "rating": 4.0,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Doctor Strange: Hechicero Supremo",
+    "rating": 4.6,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Black Panther",
+    "rating":4.7,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "rating": 4.3,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Ant-Man and The Wasp",
+    "rating": 4.2,
+    "tags": ["acción", "aventura"]
+    
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "rating": 4.7,
+    "tags": ["acción", "ciencia ficción"]
+    
+  },
+  {
+    "title": "Avengers: Endgame",
+    "rating": 4.7,
+    "tags": ["acción", "ciencia ficción"]
+    
+  }
+]
